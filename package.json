@@ -1,7 +1,7 @@
 {
   "name": "@dubin/obsidian-vault-parser",
   "author": "Jonathan Dubin",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/obsidian-vault-parser.esm.js",
@@ -33,13 +33,13 @@
       "limit": "10 KB"
     }
   ],
-  "homepage": "https://github.com/coffee-cup/obsidian-vault-parser",
+  "homepage": "https://github.com/jondubin/obsidian-vault-parser",
   "bugs": {
-    "url": "https://github.com/coffee-cup/obsidian-vault-parser/issues"
+    "url": "https://github.com/jondubin/obsidian-vault-parser/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coffee-cup/obsidian-vault-parser.git"
+    "url": "https://github.com/jondubin/obsidian-vault-parser.git"
   },
   "dependencies": {
     "glob-promise": "^4.2.2",
