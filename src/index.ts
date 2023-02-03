@@ -87,7 +87,7 @@ export const readVault = async (
 
   for (const filePath of files) {
     const file = await parseFile(filePath);
-    vault.files[file.name] = file;
+    vault.files[file.path] = file;
   }
 
   if (options?.isPublished != null) {
